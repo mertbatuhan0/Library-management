@@ -17,5 +17,4 @@ e1 = Employee("batuhan", 1, "Library Worker")
 u1= User("mert", 36180)
 
 print(f"employee: {e1.name}, duty: {e1.position}")
-print(f"user: {u1.name}, ID: {u1.id}"
-)
+print(f"user: {u1.name}, ID: {u1.id}")
